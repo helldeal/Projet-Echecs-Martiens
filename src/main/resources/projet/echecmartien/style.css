@@ -1,0 +1,182 @@
+.boutton{
+-fx-background-color: None; -fx-background-radius: 5px; -fx-border-radius: 5px;
+}
+.boutton:hover {
+ -fx-background-color:Green;
+}
+
+.titrevictoire{
+    -fx-font-size:40px;
+}
+.p1{
+    -fx-font-size:25px;
+}
+.Vscore{
+    -fx-font-size:15px;
+
+    -fx-text-fill:white;
+}
+.butMenu{
+    -fx-font-size:25px;
+    -fx-text-fill:white;
+    -fx-background-radius:5px;
+    -fx-background-color:rgb( 0, 0, 0, 0.6);
+    -fx-border-radius: 5px;
+}
+
+.butMenu:hover{
+    -fx-font-size:25px;
+    -fx-text-fill:white;
+    -fx-background-radius:5px;
+    -fx-background-color:rgb( 0, 110, 186, 0.5)  ;
+    -fx-border-radius: 5px;
+}
+
+
+.IAb{
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-font-size: 15px;
+    -fx-background-color:  rgb( 0, 0, 0, 0.6);
+    -fx-text-fill:white;
+}
+
+.play{
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-font-size: 30px;
+    -fx-background-color:  rgb( 0, 0, 0, 0.6);
+    -fx-text-fill:white;
+}
+.play:hover{
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-font-size: 30px;
+    -fx-background-color:  rgb( 0, 110, 186, 0.5)  ;
+    -fx-text-fill:white;
+}
+.backnew{
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-background-color: none;
+    -fx-text-fill:white;
+}
+.backnew:hover{
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-background-color:  rgb( 0, 110, 186, 0.5)  ;
+    -fx-text-fill:white;
+}
+.fleches{
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-font-size:20px;
+    -fx-background-color: none;
+    -fx-text-fill:white;
+}
+.fleches:hover{
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-background-color:  rgb( 0, 110, 186, 0.5)  ;
+    -fx-text-fill:white;
+}
+/* V U E   R U L E S */
+
+
+.thisrules{
+    -fx-background-image: url('file:src/main/resources/projet/echecmartien/spacegif4.gif');
+    -fx-background-size:cover;
+}
+.titlerules{
+    -fx-font-size:35px;
+    -fx-text-fill:white;
+}
+.backrules{
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-background-color:  rgb( 0, 0, 0, 0.6);
+    -fx-text-fill:white;
+}
+.backrules:hover{
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-background-color:  rgb( 0, 110, 186, 0.5)  ;
+    -fx-text-fill:white;
+}
+.textrules{
+    -fx-background-color: rgb(0,0,0,0.3);
+    -fx-font-size:15px;
+    -fx-background-radius: 5.0;
+    -fx-text-fill:white;
+}
+
+
+/*    S T A G E   Q U I T */
+.thisquit{
+    -fx-background-color: #0e1f2f;
+}
+.buttonquit{
+    -fx-text-fill:white;
+    -fx-background-color: None;
+}
+.buttonquit:hover{
+    -fx-text-fill:white;
+    -fx-background-color:  rgb( 255, 0, 0, 0.4)  ;
+}
+.buttonannul{
+    -fx-text-fill:white;
+    -fx-background-color: None;
+}
+.buttonannul:hover{
+    -fx-text-fill:white;
+    -fx-background-color:  rgb( 0, 110, 186, 0.4)  ;
+}
+.primary{
+    -fx-text-fill:white;
+    -fx-font-size:22.0;
+}
+
+
+/*    S T A G E   Q U I T    J E U    */
+
+.buttonquitsave{
+    -fx-text-fill:white;
+    -fx-background-color: None;
+}
+.buttonquitsave:hover{
+    -fx-text-fill:white;
+    -fx-background-color:  rgb( 0, 255, 0, 0.4)  ;
+}
+.primaryjeu2{
+    -fx-text-fill:white;
+}
+
+
+/* CHARGE  */
+.nom{
+    -fx-font-size: 30px;
+    -fx-text-fill:white;
+}
+.joueur{
+    -fx-font-size: 15px;
+    -fx-text-fill: white;
+}
+.duree{
+    -fx-font-size: 12px;
+    -fx-text-fill: white;
+}
+
+.charge{
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-background-color:  rgb( 0, 0, 0, 0.6)  ;
+}
+.charge:hover{
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-background-color:  rgb( 0, 0, 0, 0.4);
+}
+.titrecharge{
+    -fx-text-fill: white;
+    -fx-font-size: 45px;
+}
